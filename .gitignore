@@ -1,0 +1,8 @@
+.DS Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+build/
+node modules/
+npm-debug.*
